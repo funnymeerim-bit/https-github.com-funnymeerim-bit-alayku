@@ -1,0 +1,6 @@
+{
+  "name": "Алайкуу Organics",
+  "description": "Authentic organic Kyrgyz dairy heritage, online store, interactive traditional production explorer, and AI-powered Jailoo Heritage Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
